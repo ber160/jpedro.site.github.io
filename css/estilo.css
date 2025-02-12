@@ -1,0 +1,60 @@
+body {
+    text-align: center; 
+    background-color: rgb(102, 174, 221);    
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Cabeçalhos */
+h1 {
+    color: rgb(4, 22, 22);
+    text-align: center;
+    font-size: 45px;
+    margin-top: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    color: #fff;
+}
+p   {
+    color: #fff;
+    font-size: 25px;
+}
+/* Imagem */
+img {
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+div {
+    font-size: 30px;
+    
+}
+button {
+    background-color: #000000;
+    color: white;
+    border:70cm;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+nav a {
+    color: azure;
+    text-decoration: none;
+    padding: 10px;
+}
+nav a:hover     {
+    color:rgb(42, 212, 212);
+    background-color: rgb(3, 10, 10);
+}
+borda {
+    border: 2px solid red; /* 2px de grosor, color rojo */
+    padding: 20px; /* Espacio dentro del div */
+}
